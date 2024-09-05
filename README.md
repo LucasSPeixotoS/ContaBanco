@@ -12,13 +12,12 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 
 ###### Revise sobre regras de declaração de variáveis
 
-| Atributo  | Tipo     | Exemplo   
-| --------- | ---------| ------- 
-| Numero    | Inteiro  | 1021 
-| Agencia   | Texto    | 067-8
-| Nome Cliente | Texto    | MARIO ANDRADE
-| Saldo | Decimal |237.48
-
+| Atributo     | Tipo    | Exemplo       |
+|--------------|---------|---------------|
+| Numero       | Inteiro | 1021          |
+| Agencia      | Texto   | 067-8         |
+| Nome Cliente | Texto   | MARIO ANDRADE |
+| Saldo        | Decimal | 237.48        |
 
 ###### Revise sobre terminal, main args e a classe Scanner
 2. Permita que os dados sejam inseridos via terminal sendo que o usuário receberá a mensagem de qual informação será solicitada, exemplo:
